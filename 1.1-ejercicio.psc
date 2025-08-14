@@ -7,3 +7,4 @@ Algoritmo nombre_apellido
 	Escribir "Bienvenido " nombre , apellido;
 FinAlgoritmo
 
+
