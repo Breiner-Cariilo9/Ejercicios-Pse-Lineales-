@@ -6,3 +6,4 @@ Algoritmo nombre_apellido
 	leer apellido;
 	Escribir "Bienvenido " nombre , apellido;
 FinAlgoritmo
+
